@@ -4,10 +4,10 @@ Ransomware.py
 
      pkg install python3 -y
 
-     git clone https://github.com/hackerxphantom/xransom
+     git clone https://github.com/akashblackhat/Ransomware.py.git
 
-     cd xransom
+     cd Ransomware.py
 
      bash install.sh
 
-     python3 xransom.py
+     python3 Ransomware.py
