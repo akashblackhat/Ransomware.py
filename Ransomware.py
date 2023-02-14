@@ -1,4 +1,5 @@
 #-!- /usr/bin/akash/python3
+#authoe: akash black hat
 import os, sys, time, fileinput
 from getpass import getpass
 from PIL import Image
