@@ -37,10 +37,7 @@ def banner():
 \033[31mThe author is not responsible for any issues or damage
 \033[32m***************\033[31Ransomware Android\033[32m******************
 *Developer:AKASH BLACK HAT
-*WhatsApp :+91 8389020949
-*YouTube  :Technical akash skills
-*Github   :https://github.com/akashblackhat
-*Team     :https://www.facebook.com/AKASHBLACKHAT
+
 ******************************************************''')
 
 def writefile(file,old,new):
